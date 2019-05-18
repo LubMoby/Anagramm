@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anagram</string>
+    <string name="text_anagram">Введите текст для Анаграммы</string>
+    <string name="button">Показать АНАГРАММУ</string>
+    <string name="view_anagram">Здесь будет текст Анаграммы</string>
+    <string name="clear_button">Очистить поле</string>
+</resources>
